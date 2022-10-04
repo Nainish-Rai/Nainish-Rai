@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nainish Rai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="leftr">Hi 👋, I'm Nainish Rai</h1>
+<h3 align="left">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nainish-rai" alt="nainish-rai" /></a> </p>
+<img src = "https://user-images.githubusercontent.com/109546113/193812087-5f5ad20f-bca7-4c33-8280-d94a69d271bc.gif" >
+
 
 - 🌱 I’m currently learning **React and Java**
 
