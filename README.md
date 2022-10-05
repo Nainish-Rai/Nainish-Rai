@@ -1,14 +1,14 @@
 <h1 align="leftr">Hi 👋, I'm Nainish Rai</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
-<img src = "https://user-images.githubusercontent.com/109546113/193812087-5f5ad20f-bca7-4c33-8280-d94a69d271bc.gif" >
+<img src = "https://user-images.githubusercontent.com/109546113/194103169-65b62da9-0ceb-40fe-be19-dfa0c527b619.gif" >
 
 
 - 🌱 I’m currently learning **React and Java**
 
 - 💬 Ask me about **HTML , CSS , Javascript**
 
-- 📫 How to reach me **nainishraisjp@gmail.com**
+- 📫 How to reach me **nainishrai999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
