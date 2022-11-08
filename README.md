@@ -21,5 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nainish-rai&show_icons=true&locale=en" alt="nainish-rai" /></p>
 
 
-[![@nainish's Holopin board](https://holopin.me/nainish)](https://holopin.io/@nainish)
+[![@nainish's Holopin board](https://holopin.me/nainish)](https://holopin.io/@nainish) 
 
