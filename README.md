@@ -40,7 +40,7 @@
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nainishrai/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nainish-rai/)
 - 🧵 [X](https://x.com/nain1sh)
 - 🧠 [Blog (Coming Soon)]()
 - 📫 Email: [nainishrai999@gmail.com](emailto:nainishrai999@gmail.com)
