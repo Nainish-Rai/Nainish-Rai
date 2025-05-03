@@ -1,5 +1,60 @@
-# 💫 About Me:
-🔭 I’m currently working on : Realtime-Chat App<br>👯 I’m looking to collaborate on : Full-Stack Apps<br>🤝 I’m looking for help with : Backend Development<br>🌱 I’m currently learning : Full-Stack Development<br>💬 Ask me about : ReactJS/Tailwind CSS<br>⚡ Fun fact : I have completed around 150 game titles.
+# 👋 Hi, I'm Nainish Rai
+
+🚀 Full-Stack Developer | 💡 Building AI & Web3 Products | 🛠️ Lead Frontend @ Haven Network
+🔁 I ship fast, think in systems, and solve real-world problems.
+
+---
+
+## 🔧 Tech Stack
+
+**Frontend:** React.js, Next.js, TailwindCSS, ShadCN  
+**Backend:** Node.js, NestJS, NATS, PostgreSQL, Prisma  
+**DevOps:** GitHub Actions, VPS (Ubuntu), Docker  
+**AI + Tooling:** Cline, RooCode, LangChain, OpenAI API  
+**Web3:** Solidity, Thirdweb, Solana (basics)
+
+---
+
+## ⚡️ What I'm Working On
+
+- 🧠 **AI Email Prioritizer** – Automates email triage with GPT and smart tagging  
+- 🌐 **Frontend Lead @ Haven Network** – Building dev tools + infra for a Solana-based Web3 platform  
+- 📦 **Microservices Infrastructure** – NestJS + NATS deployment pipelines with GitHub Actions
+
+---
+
+## 🛠️ Projects
+
+### 🔹 [Smart Email Manager](https://github.com/nainishrai/email-prioritizer)
+> AI-based email assistant that fetches, tags, and prioritizes top 20 emails daily using GPT.
+
+### 🔹 [Haven Network (Private Repo)]
+> Lead frontend development for a Web3 dev platform. Built and deployed landing page, app interface, and CI/CD pipelines.
+
+### 🔹 [NestJS + NATS Boilerplate](#)
+> Clean, production-ready microservices starter with Prisma, PostgreSQL, and GitHub Actions.
+
+---
+
+## 📬 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nainishrai/)
+- 🧵 [X](https://x.com/nain1sh)
+- 🧠 [Blog (Coming Soon)]()
+- 📫 Email: [nainishrai999@gmail.com](emailto:nainishrai999@gmail.com)
+
+---
+
+### 💡 Philosophy
+
+> **"Don’t just write code. Build systems. Create leverage."**
+
+I believe in high-output execution, thinking like an owner, and compounding impact through smart tools and clear communication.
+
+---
+
+⭐️ **Thanks for visiting my profile! If you're building something cool, let's connect.**
+
 
 
 ## 🌐 Socials:
