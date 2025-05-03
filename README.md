@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Nainish Rai
 
-🚀 Full-Stack Developer | 💡 Building AI & Web3 Products | 🛠️ Lead Frontend @ Haven Network
+🚀 Full-Stack Developer 
+💡 Building AI & Web3 Products 
+🛠️ Lead Frontend @ Haven Network
 🔁 I ship fast, think in systems, and solve real-world problems.
 
 ---
