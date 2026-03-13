@@ -13,10 +13,10 @@ Full-Stack Developer building AI tools, developer infrastructure, and modern web
 - 💳 **cashflow agent** — get clean cashflow insights with gen ui. https://github.com/Nainish-Rai/cashflow-analyzer
 - 🧠 **orchids ai agent** — claude code like CLI agent to manage databases. https://github.com/Nainish-Rai/orchids-ai-agent-one
 - 🧵 **queue up** — lightweight backend for nocode waitlist builders. https://github.com/Nainish-Rai/queue-up
-- 🛰️ **garuda lens** — agentic location analysis using Sentinel satellite data  https://github.com/Nainish-Rai/garuda_lens
+- 🛰️ **garuda lens** — agentic location analysis using sentinel satellite data  https://github.com/Nainish-Rai/garuda_lens
 - 🔐 **next.js 15 betterauth starter** — opinionated next.js starter template with betterauth preconfigured. [Repo](https://github.com/Nainish-Rai/nextjs-15-starter-betterauth)
 - 🧩 **openFGA demo** — practical authorization modeling examples with openfga. https://github.com/Nainish-Rai/openfga-demo
-- 🐝 **buzzbro** — experiments in social/content automation focused on speed and shareability. https://github.com/Nainish-Rai/BuzzBro
+- 🐝 **buzzbro** — social/content automation experimental chrome extension https://github.com/Nainish-Rai/BuzzBro
 - 🔤 **strings-web** — clean web UI client for threads by meta. https://github.com/Nainish-Rai/strings-web
 - 🧊 **aesthetic startpage** — minimal focus-first browser startpage. https://github.com/Nainish-Rai/aesthetic-startpage
 - ✅ **tui-todo** — terminal-first todo app in Go  https://github.com/Nainish-Rai/tui-todo
