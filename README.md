@@ -8,18 +8,18 @@ Full-Stack Developer building AI tools, developer infrastructure, and modern web
 
 ## Open Source
 
-- 🎵 **Side A** — Open-source FLAC music streaming client/player. https://github.com/Nainish-Rai/side-a  
-- 📄 **Paper_AI** — AI reading assistant: summarize, extract ideas, and turn PDFs/Docs/Markdown into notes. https://github.com/Nainish-Rai/paper_ai  
-- 💳 **Cashflow Analyzer Agent** — Upload bank statements → categorize spend → get clean cashflow insights. https://github.com/Nainish-Rai/cashflow-analyzer  
-- 🧠 **Orchids AI Agent** — CLI agent to manage databases, migrations, and API scaffolding. https://github.com/Nainish-Rai/orchids-ai-agent-one  
-- 🧵 **Queue Up (BaaS)** — Lightweight backend for nocode waitlist builders. https://github.com/Nainish-Rai/queue-up  
-- 🛰️ **Garuda Lens** — AI agent that analyzes locations using Sentinel satellite data. https://github.com/Nainish-Rai/garuda_lens  
-- 🔐 **Next.js 15 BetterAuth Starter** — Opinionated Next.js starter template with BetterAuth preconfigured. https://github.com/Nainish-Rai/nextjs-15-starter-betterauth  
-- 🧩 **OpenFGA Demo** — Practical authorization modeling examples with OpenFGA. https://github.com/Nainish-Rai/openfga-demo  
-- 🐝 **BuzzBro** — Experiments in social/content automation focused on speed and shareability. https://github.com/Nainish-Rai/BuzzBro  
-- 🔤 **strings-web** — Clean web UI client for Threads by Meta. https://github.com/Nainish-Rai/strings-web  
-- 🧊 **Aesthetic Startpage** — Minimal browser startpage designed for focus-first browsing. https://github.com/Nainish-Rai/aesthetic-startpage  
-- ✅ **tui-todo** — Terminal-first TODO app written in Go for fast capture and clean lists. https://github.com/Nainish-Rai/tui-todo
+- 🎵 **Side A** — Open-source FLAC music streaming client/player. [Repo](https://github.com/Nainish-Rai/side-a)
+- 📄 **Paper_AI** — AI reading assistant: summarize, extract ideas, and turn PDFs/Docs/Markdown into notes. [Repo](https://github.com/Nainish-Rai/paper_ai)
+- 💳 **Cashflow Analyzer Agent** — Upload bank statements → categorize spend → get clean cashflow insights. [Repo](https://github.com/Nainish-Rai/cashflow-analyzer)
+- 🧠 **Orchids AI Agent** — CLI agent to manage databases, migrations, and API scaffolding. [Repo](https://github.com/Nainish-Rai/orchids-ai-agent-one)
+- 🧵 **Queue Up (BaaS)** — Lightweight backend for nocode waitlist builders. [Repo](https://github.com/Nainish-Rai/queue-up)
+- 🛰️ **Garuda Lens** — AI agent that analyzes locations using Sentinel satellite data. [Repo](https://github.com/Nainish-Rai/garuda_lens)
+- 🔐 **Next.js 15 BetterAuth Starter** — Opinionated Next.js starter template with BetterAuth preconfigured. [Repo](https://github.com/Nainish-Rai/nextjs-15-starter-betterauth)
+- 🧩 **OpenFGA Demo** — Practical authorization modeling examples with OpenFGA. [Repo](https://github.com/Nainish-Rai/openfga-demo)
+- 🐝 **BuzzBro** — Experiments in social/content automation focused on speed and shareability. [Repo](https://github.com/Nainish-Rai/BuzzBro)
+- 🔤 **strings-web** — Clean web UI client for Threads by Meta. [Repo](https://github.com/Nainish-Rai/strings-web)
+- 🧊 **Aesthetic Startpage** — Minimal browser startpage designed for focus-first browsing. [Repo](https://github.com/Nainish-Rai/aesthetic-startpage)
+- ✅ **tui-todo** — Terminal-first TODO app written in Go for fast capture and clean lists. [Repo](https://github.com/Nainish-Rai/tui-todo)
 
 ## Landings (design + conversion)
 
