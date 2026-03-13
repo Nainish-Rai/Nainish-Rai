@@ -6,7 +6,7 @@ Full-Stack Developer building AI tools, developer infrastructure, and modern web
 - Lead Frontend Engineer — Haven Network  
 - Systems thinker. Fast shipper. Product-focused builder.
 
-## Open Source
+## Open Source 
 
 - 🎵 **side a** — open-source *flac* music streaming client/player. https://github.com/Nainish-Rai/side-a
 - 📄 **paper ai** — ai powered notion alternative https://github.com/Nainish-Rai/paper_ai
@@ -21,7 +21,7 @@ Full-Stack Developer building AI tools, developer infrastructure, and modern web
 - 🧊 **aesthetic startpage** — minimal focus-first browser startpage. https://github.com/Nainish-Rai/aesthetic-startpage
 - ✅ **tui-todo** — terminal-first todo app in Go  https://github.com/Nainish-Rai/tui-todo
 
-## 🎥 Demos / Builds
+##  Demos / Builds
 
 - 🛰️ **Garuda Lens** — AI agent analyzing locations using Sentinel satellite data · [Post](https://x.com/Nain1sh/status/1964747545634308228?s=20) · [Demo](https://drive.google.com/file/d/1tpEN8_CGqv0TEjVl5IDRa5hSXytgsHp1/view)
 - 🧵 **Queue Up (BaaS)** — Backend for nocode waitlist builders · [Post](https://x.com/Nain1sh/status/1931102465497387051?s=20) · [Demo](https://youtu.be/ZgCCCuw49BA)
