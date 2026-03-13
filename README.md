@@ -8,18 +8,29 @@ Full-Stack Developer building AI tools, developer infrastructure, and modern web
 
 ## Open Source
 
-- 🎵 **Side A** — Open-source FLAC music streaming client/player · [Repo](https://github.com/Nainish-Rai/side-a)
-- 📄 **Paper_AI** — AI reading assistant for PDFs, Docs, and Markdown · [Repo](https://github.com/Nainish-Rai/paper_ai)
-- 💳 **Cashflow Analyzer Agent** — Statement upload, spend categorization, and cashflow insights · [Repo](https://github.com/Nainish-Rai/cashflow-analyzer)
-- 🧠 **Orchids AI Agent** — CLI for databases, migrations, and API scaffolding · [Repo](https://github.com/Nainish-Rai/orchids-ai-agent-one)
-- 🧵 **Queue Up (BaaS)** — Backend for nocode waitlist builders · [Repo](https://github.com/Nainish-Rai/queue-up)
-- 🛰️ **Garuda Lens** — AI location analysis using Sentinel satellite data · [Repo](https://github.com/Nainish-Rai/garuda_lens)
-- 🔐 **Next.js 15 BetterAuth Starter** — BetterAuth-ready Next.js starter · [Repo](https://github.com/Nainish-Rai/nextjs-15-starter-betterauth)
-- 🧩 **OpenFGA Demo** — Authorization modeling examples with OpenFGA · [Repo](https://github.com/Nainish-Rai/openfga-demo)
-- 🐝 **BuzzBro** — Social/content automation experiments · [Repo](https://github.com/Nainish-Rai/BuzzBro)
-- 🔤 **strings-web** — Web UI client for Threads by Meta · [Repo](https://github.com/Nainish-Rai/strings-web)
-- 🧊 **Aesthetic Startpage** — Minimal focus-first browser startpage · [Repo](https://github.com/Nainish-Rai/aesthetic-startpage)
-- ✅ **tui-todo** — Terminal-first TODO app in Go · [Repo](https://github.com/Nainish-Rai/tui-todo)
+- 🎵 **side a** — open-source *flac* music streaming client/player. https://github.com/Nainish-Rai/side-a
+- 📄 **paper ai** — ai powered notion alternative https://github.com/Nainish-Rai/paper_ai
+- 💳 **cashflow agent** — get clean cashflow insights with gen ui. https://github.com/Nainish-Rai/cashflow-analyzer
+- 🧠 **orchids ai agent** — claude code like CLI agent to manage databases. https://github.com/Nainish-Rai/orchids-ai-agent-one
+- 🧵 **queue up** — lightweight backend for nocode waitlist builders. https://github.com/Nainish-Rai/queue-up
+- 🛰️ **garuda lens** — agentic location analysis using Sentinel satellite data  https://github.com/Nainish-Rai/garuda_lens
+- 🔐 **next.js 15 betterauth starter** — opinionated next.js starter template with betterauth preconfigured. [Repo](https://github.com/Nainish-Rai/nextjs-15-starter-betterauth)
+- 🧩 **openFGA demo** — practical authorization modeling examples with openfga. https://github.com/Nainish-Rai/openfga-demo
+- 🐝 **buzzbro** — experiments in social/content automation focused on speed and shareability. https://github.com/Nainish-Rai/BuzzBro
+- 🔤 **strings-web** — clean web UI client for threads by meta. https://github.com/Nainish-Rai/strings-web
+- 🧊 **aesthetic startpage** — minimal focus-first browser startpage. https://github.com/Nainish-Rai/aesthetic-startpage
+- ✅ **tui-todo** — terminal-first todo app in Go  https://github.com/Nainish-Rai/tui-todo
+
+## 🎥 Demos / Builds
+
+- 🛰️ **Garuda Lens** — AI agent analyzing locations using Sentinel satellite data · [Post](https://x.com/Nain1sh/status/1964747545634308228?s=20) · [Demo](https://drive.google.com/file/d/1tpEN8_CGqv0TEjVl5IDRa5hSXytgsHp1/view)
+- 🧵 **Queue Up (BaaS)** — Backend for nocode waitlist builders · [Post](https://x.com/Nain1sh/status/1931102465497387051?s=20) · [Demo](https://youtu.be/ZgCCCuw49BA)
+- 💌 **Letterify (Web3)** — Send letters over the blockchain · [Post](https://x.com/Nain1sh/status/1799372222420959436?s=20) · [Demo](https://drive.google.com/file/d/1hUhHg0ItALdXi1ZUwYaf9w3Cn6zYrCj0/view)
+- 🧠 **Orchids AI Agent** — AI CLI for databases, migrations, and API scaffolding · [Post](https://www.linkedin.com/posts/nainish-rai_ai-artificialintelligence-softwaredevelopment-activity-7395465832765566976-90mw)
+- ▶️ **NextTube** — YouTube-inspired video platform demo · [Demo](https://drive.google.com/file/d/16Rol9Dw_3Di64ZQJ3tW6mJOEAHn6VqYt/view)
+- 💳 **Monet** — Loyalty points marketplace demo · [Demo](https://drive.google.com/file/d/1cxKUpmOdPnMooAxzL0Vc0QPAhffqBtCw/view?t=3)
+- 🌘 **Eclipse** — Experimental product prototype · [Demo](https://drive.google.com/file/d/1vbpdpX60UafDGudZbZW8yIfFF_eIOpTM/view)
+- 📈 **Mato Finance** — Time-based order book trading dApp · [Demo](https://youtu.be/rsCR2T0bHhs)
 
 ## Landings (design + conversion)
 
@@ -39,7 +50,7 @@ Full-Stack Developer building AI tools, developer infrastructure, and modern web
 - **Alchemist** — Premium landing aesthetic with punchy sections. https://alchemist-landing.vercel.app/
 
 
-## Demos / builds
+## Links
 
 - 📈 **Mato Finance** — Time-based order book trading dApp. https://mato.finance/
 - 💌 **Letterify (Web3)** — Send letters over the blockchain (novel + real). https://letterify-web3.vercel.app/
