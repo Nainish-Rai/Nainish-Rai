@@ -1,80 +1,78 @@
-# Hi, I'm Nainish Rai
+# hi, i'm nainish rai
 
-Full-Stack Developer building AI tools, developer infrastructure, and modern web products.
+full-stack developer building ai tools, developer infrastructure, and modern web products.
 
-- HackWithInfy 2025 Grand Winner out of 200,000 devs. 
-- Lead Frontend Engineer — Haven Network  
-- Systems thinker. Fast shipper. Product-focused builder.
+- hackwithinfy 2025 grand winner out of 200,000 devs  
+- lead frontend engineer — haven network  
+- systems thinker. fast shipper. product-focused builder.
 
-## Open Source 
+## open source
 
-- 🎵 **side a** — open-source *flac* music streaming client/player. https://github.com/Nainish-Rai/side-a
-- 📄 **paper ai** — ai powered notion alternative https://github.com/Nainish-Rai/paper_ai
-- 💳 **cashflow agent** — get clean cashflow insights with gen ui. https://github.com/Nainish-Rai/cashflow-analyzer
-- 🧠 **orchids ai agent** — claude code like CLI agent to manage databases. https://github.com/Nainish-Rai/orchids-ai-agent-one
-- 🧵 **queue up** — lightweight backend for nocode waitlist builders. https://github.com/Nainish-Rai/queue-up
-- 🛰️ **garuda lens** — agentic location analysis using sentinel satellite data  https://github.com/Nainish-Rai/garuda_lens
-- 🔐 **next.js 15 betterauth starter** — opinionated next.js starter template with betterauth preconfigured. [Repo](https://github.com/Nainish-Rai/nextjs-15-starter-betterauth)
-- 🧩 **openFGA demo** — practical authorization modeling examples with openfga. https://github.com/Nainish-Rai/openfga-demo
-- 🐝 **buzzbro** — social/content automation experimental chrome extension https://github.com/Nainish-Rai/BuzzBro
-- 🔤 **strings-web** — clean web UI client for threads by meta. https://github.com/Nainish-Rai/strings-web
-- 🧊 **aesthetic startpage** — minimal focus-first browser startpage. https://github.com/Nainish-Rai/aesthetic-startpage
-- ✅ **tui-todo** — terminal-first todo app in Go  https://github.com/Nainish-Rai/tui-todo
+- 🎵 **side a** — open-source *flac* music streaming client/player · https://github.com/Nainish-Rai/side-a
+- 📄 **paper ai** — ai powered notion alternative · https://github.com/Nainish-Rai/paper_ai
+- 💳 **cashflow agent** — get clean cashflow insights with gen ui · https://github.com/Nainish-Rai/cashflow-analyzer
+- 🧠 **orchids ai agent** — claude code–like cli agent to manage databases · https://github.com/Nainish-Rai/orchids-ai-agent-one
+- 🧵 **queue up** — lightweight backend for nocode waitlist builders · https://github.com/Nainish-Rai/queue-up
+- 🛰️ **garuda lens** — agentic location analysis using sentinel satellite data · https://github.com/Nainish-Rai/garuda_lens
+- 🔐 **next.js 15 betterauth starter** — opinionated next.js starter template with betterauth preconfigured · https://github.com/Nainish-Rai/nextjs-15-starter-betterauth
+- 🧩 **openfga demo** — practical authorization modeling examples with openfga · https://github.com/Nainish-Rai/openfga-demo
+- 🐝 **buzzbro** — social/content automation experimental chrome extension · https://github.com/Nainish-Rai/BuzzBro
+- 🔤 **strings-web** — clean web ui client for threads by meta · https://github.com/Nainish-Rai/strings-web
+- 🧊 **aesthetic startpage** — minimal focus-first browser startpage · https://github.com/Nainish-Rai/aesthetic-startpage
+- ✅ **tui-todo** — terminal-first todo app in go · https://github.com/Nainish-Rai/tui-todo
 
-##  Demos / Builds
+## demos / builds
 
-- 🛰️ **Garuda Lens** — AI agent analyzing locations using Sentinel satellite data · [Post](https://x.com/Nain1sh/status/1964747545634308228?s=20) · [Demo](https://drive.google.com/file/d/1tpEN8_CGqv0TEjVl5IDRa5hSXytgsHp1/view)
-- 🧵 **Queue Up (BaaS)** — Backend for nocode waitlist builders · [Post](https://x.com/Nain1sh/status/1931102465497387051?s=20) · [Demo](https://youtu.be/ZgCCCuw49BA)
-- 💌 **Letterify (Web3)** — Send letters over the blockchain · [Post](https://x.com/Nain1sh/status/1799372222420959436?s=20) · [Demo](https://drive.google.com/file/d/1hUhHg0ItALdXi1ZUwYaf9w3Cn6zYrCj0/view)
-- 🧠 **Orchids AI Agent** — AI CLI for databases, migrations, and API scaffolding · [Post](https://www.linkedin.com/posts/nainish-rai_ai-artificialintelligence-softwaredevelopment-activity-7395465832765566976-90mw)
-- ▶️ **NextTube** — YouTube-inspired video platform demo · [Demo](https://drive.google.com/file/d/16Rol9Dw_3Di64ZQJ3tW6mJOEAHn6VqYt/view)
-- 💳 **Monet** — Loyalty points marketplace demo · [Demo](https://drive.google.com/file/d/1cxKUpmOdPnMooAxzL0Vc0QPAhffqBtCw/view?t=3)
-- 🌘 **Eclipse** — Experimental product prototype · [Demo](https://drive.google.com/file/d/1vbpdpX60UafDGudZbZW8yIfFF_eIOpTM/view)
-- 📈 **Mato Finance** — Time-based order book trading dApp · [Demo](https://youtu.be/rsCR2T0bHhs)
+- 🛰️ **garuda lens** — ai agent analyzing locations using sentinel satellite data · [post](https://x.com/Nain1sh/status/1964747545634308228?s=20) · [demo](https://drive.google.com/file/d/1tpEN8_CGqv0TEjVl5IDRa5hSXytgsHp1/view)
+- 🧵 **queue up (baas)** — backend for nocode waitlist builders · [post](https://x.com/Nain1sh/status/1931102465497387051?s=20) · [demo](https://youtu.be/ZgCCCuw49BA)
+- 💌 **letterify (web3)** — send letters over the blockchain · [post](https://x.com/Nain1sh/status/1799372222420959436?s=20) · [demo](https://drive.google.com/file/d/1hUhHg0ItALdXi1ZUwYaf9w3Cn6zYrCj0/view)
+- 🧠 **orchids ai agent** — ai cli for databases, migrations, and api scaffolding · [post](https://www.linkedin.com/posts/nainish-rai_ai-artificialintelligence-softwaredevelopment-activity-7395465832765566976-90mw)
+- ▶️ **nexttube** — youtube-inspired video platform demo · [demo](https://drive.google.com/file/d/16Rol9Dw_3Di64ZQJ3tW6mJOEAHn6VqYt/view)
+- 💳 **monet** — loyalty points marketplace demo · [demo](https://drive.google.com/file/d/1cxKUpmOdPnMooAxzL0Vc0QPAhffqBtCw/view?t=3)
+- 🌘 **eclipse** — experimental product prototype · [demo](https://drive.google.com/file/d/1vbpdpX60UafDGudZbZW8yIfFF_eIOpTM/view)
+- 📈 **mato finance** — time-based order book trading dapp · [demo](https://youtu.be/rsCR2T0bHhs)
 
-## Landings (design + conversion)
+## landings (design + conversion)
 
-- **Openwork** — Crisp landing + sections that get to value instantly. https://openwork-landing.vercel.app/
-- **CallTree AI (revamp)** — AI product positioning with a tighter narrative + modern UI. https://calltree-ai-revamp.vercel.app/
-- **Monet** — Black-design aesthetic with strong typography and premium feel. https://monet.work
-- **Orchids (hero)** — Hero experiments for agentic products. https://orchids-hero.vercel.app/
-- **AI SDK template** — Starter landing for AI app templates. https://ai-sdk-template-seven.vercel.app/
-- **Portal (hero)** — Portal-style hero layout + CTA-first flow. https://portal-hero.vercel.app/
-- **Westside** — Simple, bold landing with clean hierarchy. https://westside-landing.vercel.app/
-- **Meld app template** — App template landing: features, screenshots, CTA, done. https://meld-app-template.vercel.app/
-- **Postly** — Social/content product landing with strong sections + pricing-ready layout. https://postly-landing.vercel.app/
-- **Credo** — Trust-forward landing with a sharp “why now” story. https://credo-landing.vercel.app/
-- **Finstark** — Finance-style landing with confident visual rhythm. https://finstark-landing.vercel.app/
-- **Clearline** — Clean SaaS landing with clarity-first copy blocks. https://clearline-landing.vercel.app/
-- **Clearboard** — Board/product narrative with a fast, skimmable flow. https://clearboard-landing.vercel.app/
-- **Alchemist** — Premium landing aesthetic with punchy sections. https://alchemist-landing.vercel.app/
+- **openwork** — crisp landing + sections that get to value instantly · https://openwork-landing.vercel.app/
+- **calltree ai (revamp)** — ai product positioning with a tighter narrative + modern ui · https://calltree-ai-revamp.vercel.app/
+- **monet** — black-design aesthetic with strong typography and premium feel · https://monet.work
+- **orchids (hero)** — hero experiments for agentic products · https://orchids-hero.vercel.app/
+- **ai sdk template** — starter landing for ai app templates · https://ai-sdk-template-seven.vercel.app/
+- **portal (hero)** — portal-style hero layout + cta-first flow · https://portal-hero.vercel.app/
+- **westside** — simple, bold landing with clean hierarchy · https://westside-landing.vercel.app/
+- **meld app template** — app template landing: features, screenshots, cta, done · https://meld-app-template.vercel.app/
+- **postly** — social/content product landing with strong sections + pricing-ready layout · https://postly-landing.vercel.app/
+- **credo** — trust-forward landing with a sharp “why now” story · https://credo-landing.vercel.app/
+- **finstark** — finance-style landing with confident visual rhythm · https://finstark-landing.vercel.app/
+- **clearline** — clean saas landing with clarity-first copy blocks · https://clearline-landing.vercel.app/
+- **clearboard** — board/product narrative with a fast, skimmable flow · https://clearboard-landing.vercel.app/
+- **alchemist** — premium landing aesthetic with punchy sections · https://alchemist-landing.vercel.app/
+
+## links
+
+- 📈 **mato finance** — time-based order book trading dapp · https://mato.finance/
+- 💌 **letterify (web3)** — send letters over the blockchain · https://letterify-web3.vercel.app/
+- 🧰 **no-code waitlist builder (baas)** — backend-as-a-service for waitlists + onboarding flows · https://youtu.be/ZgCCCuw49BA
+
+## connect with me
+
+- 💼 [linkedin](https://www.linkedin.com/in/nainish-rai/)
+- 🧵 [x](https://x.com/nain1sh)
+- 🧠 [blog / portfolio](https://nainishrai.vercel.app)
+- 📫 email: nainishrai999@gmail.com
+---
 
 
-## Links
+### philosophy
 
-- 📈 **Mato Finance** — Time-based order book trading dApp. https://mato.finance/
-- 💌 **Letterify (Web3)** — Send letters over the blockchain (novel + real). https://letterify-web3.vercel.app/
-- 🧰 **No-code waitlist builder (BaaS)** — Backend-as-a-service for waitlists + onboarding flows. https://youtu.be/ZgCCCuw49BA
+> "don’t just write code. build systems. create leverage."
 
-## 📬 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/nainish-rai/)
-- 🧵 [X](https://x.com/nain1sh)
-- 🧠 [Blog/Portfolio](https://nainishrai.vercel.app)
-- 📫 Email: [nainishrai999@gmail.com](emailto:nainishrai999@gmail.com)
+i believe in high-output execution, thinking like an owner, and compounding impact through smart tools and clear communication.
 
 ---
 
-### 💡 Philosophy
-
-> **"Don’t just write code. Build systems. Create leverage."**
-
-I believe in high-output execution, thinking like an owner, and compounding impact through smart tools and clear communication.
-
----
-
-⭐️ **Thanks for visiting my profile! If you're building something cool, let's connect.**
-
+⭐ thanks for visiting my profile! if you're building something cool, let's connect.
 
 
 ## 🌐 Socials:
