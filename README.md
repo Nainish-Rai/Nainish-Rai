@@ -14,7 +14,7 @@ full-stack developer building ai tools, developer infrastructure, and modern web
 - 🧠 **orchids ai agent** — claude code–like cli agent to manage databases · https://github.com/Nainish-Rai/orchids-ai-agent-one
 - 🧵 **queue up** — lightweight backend for nocode waitlist builders · https://github.com/Nainish-Rai/queue-up
 - 🛰️ **garuda lens** — agentic location analysis using sentinel satellite data · https://github.com/Nainish-Rai/garuda_lens
-- 🔐 **next 16 betterauth starter** — opinionated next.js starter template · https://github.com/Nainish-Rai/nextjs-15-starter-betterauth
+- 🔐 **next.js 16 betterauth starter** — opinionated next.js starter template · [repo](https://github.com/Nainish-Rai/nextjs-15-starter-betterauth)
 - 🧩 **openfga demo** — practical authorization modeling examples with openfga · https://github.com/Nainish-Rai/openfga-demo
 - 🐝 **buzzbro** — social/content automation experimental chrome extension · https://github.com/Nainish-Rai/BuzzBro
 - 🔤 **strings-web** — clean web ui client for threads by meta · https://github.com/Nainish-Rai/strings-web
@@ -60,7 +60,7 @@ full-stack developer building ai tools, developer infrastructure, and modern web
 - 💼 [linkedin](https://www.linkedin.com/in/nainish-rai/)
 - 🧵 [x](https://x.com/nain1sh)
 - 🧠 [blog / portfolio](https://nainishrai.vercel.app)
-- 📫 email: nainishrai999@gmail.com
+- 📫 email: [nainishrai999@gmail.com](mailto:nainishrai999@gmail.com)
 ---
 
 
