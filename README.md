@@ -10,22 +10,22 @@
 - 🎵 **Side A** — Open-source FLAC music streaming client/player. https://sideaplayer.vercel.app/  
   Repo: https://github.com/Nainish-Rai/side-a
 
-- 📄 **paper_ai** — AI-assisted paper reading: summarize, extract key ideas, and turn PDFs into actionable notes.  
+- 📄 **Paper_AI** — AI-assisted notion alternative reading: summarize, extract key ideas, and turn PDFs/Docx/Markdown into actionable notes.  
   Repo: https://github.com/Nainish-Rai/paper_ai
 
-- 🧾 **Cashflow Analyzer** — Upload statements, categorize spend, and get clean cashflow + insights fast.  
+- 🧾 **Cashflow Analyzer Agent** — Upload statements, categorize spend, and get clean cashflow + insights fast.  
   Repo: https://github.com/Nainish-Rai/cashflow-analyzer
 
-- 🧠 **Orchids AI Agent** — Agentic workflows with a clean UI: automate research, writing, and structured outputs.  
+- 🧠 **Orchids AI Agent** — Claude Code like cli tool to manage, migrate dbs and build apis.
   Repo: https://github.com/Nainish-Rai/orchids-ai-agent-one
 
-- 🧵 **Queue Up** — Lightweight queue/task flow experiments for async work (builders, workers, and pipelines).  
+- 🧵 **Queue Up ( BaaS )** — Lightweight backend for nocode waitlist builders.  
   Repo: https://github.com/Nainish-Rai/queue-up
 
-- 🧿 **Garuda Lens** — Lens-style capture + analysis project (vision-first tooling, workflows, and UI experiments).  
+- 🧿 **Garuda Lens** — AI Agent to anlayze any location using sentinel satellites.   
   Repo: https://github.com/Nainish-Rai/garuda_lens
 
-- 🔐 **Next.js 15 BetterAuth Starter** — Opinionated Next.js 15 starter with BetterAuth wired in (ship auth fast).  
+- 🔐 **Next.js 15 BetterAuth Starter** — Opinionated Next.js 15 starter template with BetterAuth wired in (ship auth fast).  
   Repo: https://github.com/Nainish-Rai/nextjs-15-starter-betterauth
 
 - 🧩 **OpenFGA Demo** — Practical authorization modeling + demos with OpenFGA (relations, checks, and policies).  
@@ -34,13 +34,13 @@
 - 🐝 **BuzzBro** — Social/content automation experiments with a focus on speed and shareability.  
   Repo: https://github.com/Nainish-Rai/BuzzBro
 
-- 🔤 **strings-web** — A clean web UI for string/content workflows (copy, manage, and ship UI text faster).  
+- 🔤 **strings-web** — A clean web UI for Threads by Meta.  
   Repo: https://github.com/Nainish-Rai/strings-web
 
 - 🧊 **Aesthetic Startpage** — Minimal, beautiful browser startpage for focus-first daily browsing.  
   Repo: https://github.com/Nainish-Rai/aesthetic-startpage
 
-- ✅ **tui-todo** — Terminal-first TODO app: fast capture, clean lists, no distractions.  
+- ✅ **tui-todo** — Terminal-first TODO app built in Go: fast capture, clean lists, no distractions.  
   Repo: https://github.com/Nainish-Rai/tui-todo
 
 
