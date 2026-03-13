@@ -5,44 +5,74 @@
 🛠️ Lead Frontend @ Haven Network
 🔁 I ship fast, think in systems, and solve real-world problems.
 
----
+## OpenSource Work
 
-## 🔧 Tech Stack
+- 🎵 **Side A** — Open-source FLAC music streaming client/player. https://sideaplayer.vercel.app/  
+  Repo: https://github.com/Nainish-Rai/side-a
 
-**Frontend:** React.js, Next.js, TailwindCSS, ShadCN  
-**Backend:** Node.js, NestJS, NATS, PostgreSQL, Prisma  
-**DevOps:** GitHub Actions, VPS (Ubuntu), Docker  
-**AI + Tooling:** Cline, RooCode, LangChain, OpenAI API  
-**Web3:** Solidity, Thirdweb, Solana (basics)
+- 📄 **paper_ai** — AI-assisted paper reading: summarize, extract key ideas, and turn PDFs into actionable notes.  
+  Repo: https://github.com/Nainish-Rai/paper_ai
 
----
+- 🧾 **Cashflow Analyzer** — Upload statements, categorize spend, and get clean cashflow + insights fast.  
+  Repo: https://github.com/Nainish-Rai/cashflow-analyzer
 
-## ⚡️ What I'm Working On
+- 🧠 **Orchids AI Agent** — Agentic workflows with a clean UI: automate research, writing, and structured outputs.  
+  Repo: https://github.com/Nainish-Rai/orchids-ai-agent-one
 
-- 🧠 **AI Email Prioritizer** – Automates email triage with GPT and smart tagging  
-- 🌐 **Frontend Lead @ Haven Network** – Building dev tools + infra for a Solana-based Web3 platform  
-- 📦 **Microservices Infrastructure** – NestJS + NATS deployment pipelines with GitHub Actions
+- 🧵 **Queue Up** — Lightweight queue/task flow experiments for async work (builders, workers, and pipelines).  
+  Repo: https://github.com/Nainish-Rai/queue-up
 
----
+- 🧿 **Garuda Lens** — Lens-style capture + analysis project (vision-first tooling, workflows, and UI experiments).  
+  Repo: https://github.com/Nainish-Rai/garuda_lens
 
-## 🛠️ Projects
+- 🔐 **Next.js 15 BetterAuth Starter** — Opinionated Next.js 15 starter with BetterAuth wired in (ship auth fast).  
+  Repo: https://github.com/Nainish-Rai/nextjs-15-starter-betterauth
 
-### 🔹 [Smart Email Manager](https://github.com/nainishrai/email-prioritizer)
-> AI-based email assistant that fetches, tags, and prioritizes top 20 emails daily using GPT.
+- 🧩 **OpenFGA Demo** — Practical authorization modeling + demos with OpenFGA (relations, checks, and policies).  
+  Repo: https://github.com/Nainish-Rai/openfga-demo
 
-### 🔹 [Haven Network (Private Repo)]
-> Lead frontend development for a Web3 dev platform. Built and deployed landing page, app interface, and CI/CD pipelines.
+- 🐝 **BuzzBro** — Social/content automation experiments with a focus on speed and shareability.  
+  Repo: https://github.com/Nainish-Rai/BuzzBro
 
-### 🔹 [NestJS + NATS Boilerplate](#)
-> Clean, production-ready microservices starter with Prisma, PostgreSQL, and GitHub Actions.
+- 🔤 **strings-web** — A clean web UI for string/content workflows (copy, manage, and ship UI text faster).  
+  Repo: https://github.com/Nainish-Rai/strings-web
 
----
+- 🧊 **Aesthetic Startpage** — Minimal, beautiful browser startpage for focus-first daily browsing.  
+  Repo: https://github.com/Nainish-Rai/aesthetic-startpage
+
+- ✅ **tui-todo** — Terminal-first TODO app: fast capture, clean lists, no distractions.  
+  Repo: https://github.com/Nainish-Rai/tui-todo
+
+
+## Landings (design + conversion)
+
+- **Openwork** — Crisp landing + sections that get to value instantly. https://openwork-landing.vercel.app/
+- **CallTree AI (revamp)** — AI product positioning with a tighter narrative + modern UI. https://calltree-ai-revamp.vercel.app/
+- **Monet** — Black-design aesthetic with strong typography and premium feel. https://monet.work
+- **Orchids (hero)** — Hero experiments for agentic products. https://orchids-hero.vercel.app/
+- **AI SDK template** — Starter landing for AI app templates. https://ai-sdk-template-seven.vercel.app/
+- **Portal (hero)** — Portal-style hero layout + CTA-first flow. https://portal-hero.vercel.app/
+- **Westside** — Simple, bold landing with clean hierarchy. https://westside-landing.vercel.app/
+- **Meld app template** — App template landing: features, screenshots, CTA, done. https://meld-app-template.vercel.app/
+- **Postly** — Social/content product landing with strong sections + pricing-ready layout. https://postly-landing.vercel.app/
+- **Credo** — Trust-forward landing with a sharp “why now” story. https://credo-landing.vercel.app/
+- **Finstark** — Finance-style landing with confident visual rhythm. https://finstark-landing.vercel.app/
+- **Clearline** — Clean SaaS landing with clarity-first copy blocks. https://clearline-landing.vercel.app/
+- **Clearboard** — Board/product narrative with a fast, skimmable flow. https://clearboard-landing.vercel.app/
+- **Alchemist** — Premium landing aesthetic with punchy sections. https://alchemist-landing.vercel.app/
+
+
+## Demos / builds
+
+- 📈 **Mato Finance** — Time-based order book trading dApp. https://mato.finance/
+- 💌 **Letterify (Web3)** — Send letters over the blockchain (novel + real). https://letterify-web3.vercel.app/
+- 🧰 **No-code waitlist builder (BaaS)** — Backend-as-a-service for waitlists + onboarding flows. https://youtu.be/ZgCCCuw49BA
 
 ## 📬 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nainish-rai/)
 - 🧵 [X](https://x.com/nain1sh)
-- 🧠 [Blog (Coming Soon)]()
+- 🧠 [Blog/Portfolio](https://nainishrai.vercel.app)
 - 📫 Email: [nainishrai999@gmail.com](emailto:nainishrai999@gmail.com)
 
 ---
